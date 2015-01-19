@@ -1,7 +1,7 @@
-function-repeat
+[function-repeat](https://www.npmjs.com/package/function-repeat)
 ====
 
-Construct an array by repeating a value (or function) a number of times, synchronously.
+function `repeat` construct an array by repeating a value (or function) a number of times, synchronously.
 
 INSTALL:
 --------
@@ -65,9 +65,13 @@ function fn3(x) {
 var res = fn3.repeat(5, 2, 3); // -> [5, 5, 5, 5, 5]
 ```
 
-
 SEE ALSO:
 ---------
 [call-n-times](https://www.npmjs.com/package/call-n-times),
 [times](https://www.npmjs.com/package/times),
 [repeat-function](https://www.npmjs.com/package/repeat-function)
+
+LICENSE:
+--------
+
+MIT

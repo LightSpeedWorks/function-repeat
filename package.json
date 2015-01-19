@@ -1,7 +1,7 @@
 {
   "name": "function-repeat",
   "version": "0.0.1",
-  "description": "function repeat",
+  "description": "function `repeat` construct an array by repeating a value (or function) a number of times, synchronously.",
   "main": "lib/repeat.js",
   "repository": {
     "type": "git",
