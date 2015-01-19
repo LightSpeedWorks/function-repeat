@@ -1,0 +1,22 @@
+{
+  "name": "function-repeat",
+  "version": "0.0.0",
+  "description": "function repeat",
+  "main": "lib/repeat.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LightSpeedWorks/function-repeat/"
+  },
+  "keywords": [
+    "function",
+    "repeat"
+  ],
+  "devDependencies": {
+    "mocha": ">=2.1.0"
+  },
+  "author": "LightSpeedC",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  }
+}
