@@ -1,6 +1,8 @@
 function-repeat
 ====
 
+Construct an array by repeating a value (or function) a number of times, synchronously.
+
 INSTALL:
 --------
 
