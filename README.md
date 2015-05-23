@@ -47,7 +47,7 @@ var res = repeat(fn3, 5, 2, 3); // -> [5, 5, 5, 5, 5]
 ### Function.prototype.repeat(n, context, arguments,...)
 
 ```js
-var repeat = require('function-repeat').extendFunctionRepeat();
+var repeat = require('function-repeat').extendPrototype();
 
 function fn1() {
   return 2;

@@ -1,9 +1,9 @@
 (function () {
 
   try {
-    var repeat = require('../lib/repeat').extendFunctionRepeat();
+    var repeat = require('../lib/repeat').extendPrototype();
   } catch (e) {
-    var repeat = require('function-repeat').extendFunctionRepeat();
+    var repeat = require('function-repeat').extendPrototype();
   }
 
   var assert = require('assert');
